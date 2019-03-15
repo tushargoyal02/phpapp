@@ -1,0 +1,13 @@
+
+
+[a]
+baseurl=ftp://192.168.10.254/pub/rhel7rpm/
+gpgcheck=0
+
+
+
+[b]
+baseurl=ftp://192.168.10.254/pub/rhel7rpm/
+gpgcheck=0
+
+
